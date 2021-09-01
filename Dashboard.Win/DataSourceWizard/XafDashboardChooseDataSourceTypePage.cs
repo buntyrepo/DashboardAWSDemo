@@ -33,7 +33,7 @@ namespace Dashboard.Win.Module.DataSourceWizard
 		{
 			if (View.DataSourceType == XAFDataSourceType.XAF)
 				return typeof(ChooseXafTypePage<DashboardDataSourceModel>);
-			if (View.DataSourceType == SenDevDataSourceType.Data)
+			if (View.DataSourceType == AWSDataSourceType.Data)
 				return typeof(EnterAWSPage<DashboardDataSourceModel>);
 
 			var test = View.DataSourceType;
@@ -43,7 +43,7 @@ namespace Dashboard.Win.Module.DataSourceWizard
 
 		private bool IsXafDataSource()
 		{
-			return View.DataSourceType == XAFDataSourceType.XAF || View.DataSourceType == SenDevDataSourceType.Data;
+			return View.DataSourceType == XAFDataSourceType.XAF || View.DataSourceType == AWSDataSourceType.Data;
 		}
 	}
 }

@@ -3,8 +3,8 @@ using DevExpress.ExpressApp.Dashboards.Win;
 
 namespace Dashboard.Win.Module.DataSourceWizard
 {
-    public class SenDevDataSourceType : XAFDataSourceType
+    public class AWSDataSourceType : XAFDataSourceType
     {
-        public static readonly DataSourceType Data = new SenDevDataSourceType();
+        public static readonly DataSourceType Data = new AWSDataSourceType();
     }
 }

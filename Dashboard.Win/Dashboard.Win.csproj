@@ -42,12 +42,15 @@
   <ItemGroup>
     <Reference Include="DevExpress.BonusSkins.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.BonusSkins.21.1.4\lib\net452\DevExpress.BonusSkins.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Charts.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Charts.Core.21.1.4\lib\net452\DevExpress.Charts.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.CodeParser.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.CodeParser.21.1.4\lib\net452\DevExpress.CodeParser.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Dashboard.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Dashboard.Core.21.1.4\lib\net452\DevExpress.Dashboard.v21.1.Core.dll</HintPath>
@@ -57,21 +60,26 @@
     </Reference>
     <Reference Include="DevExpress.Data.Desktop.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Data.Desktop.21.1.4\lib\net452\DevExpress.Data.Desktop.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Data.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Data.21.1.4\lib\net452\DevExpress.Data.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.DataAccess.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.DataAccess.21.1.4\lib\net452\DevExpress.DataAccess.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.DataAccess.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.DataAccess.UI.21.1.4\lib\net452\DevExpress.DataAccess.v21.1.UI.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.DataVisualization.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.DataVisualization.Core.21.1.4\lib\net452\DevExpress.DataVisualization.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Diagram.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Diagram.Core.21.1.4\lib\net452\DevExpress.Diagram.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Dashboards.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.ExpressApp.Dashboards.21.1.4\lib\net452\DevExpress.ExpressApp.Dashboards.v21.1.dll</HintPath>
@@ -81,6 +89,7 @@
     </Reference>
     <Reference Include="DevExpress.ExpressApp.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.ExpressApp.21.1.4\lib\net452\DevExpress.ExpressApp.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Win.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.ExpressApp.Win.21.1.4\lib\net452\DevExpress.ExpressApp.Win.v21.1.dll</HintPath>
@@ -90,18 +99,23 @@
     </Reference>
     <Reference Include="DevExpress.Images.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Images.21.1.4\lib\net452\DevExpress.Images.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Map.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Map.Core.21.1.4\lib\net452\DevExpress.Map.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Office.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Office.Core.21.1.4\lib\net452\DevExpress.Office.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Pdf.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Pdf.Core.21.1.4\lib\net452\DevExpress.Pdf.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Pdf.v21.1.Drawing, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Pdf.Drawing.21.1.4\lib\net452\DevExpress.Pdf.v21.1.Drawing.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Persistent.Base.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Persistent.Base.21.1.4\lib\net452\DevExpress.Persistent.Base.v21.1.dll</HintPath>
@@ -111,36 +125,46 @@
     </Reference>
     <Reference Include="DevExpress.PivotGrid.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.PivotGrid.Core.21.1.4\lib\net452\DevExpress.PivotGrid.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Printing.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Printing.Core.21.1.4\lib\net452\DevExpress.Printing.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.RichEdit.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.RichEdit.Core.21.1.4\lib\net452\DevExpress.RichEdit.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.RichEdit.v21.1.Export, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.RichEdit.Export.21.1.4\lib\net452\DevExpress.RichEdit.v21.1.Export.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Sparkline.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Sparkline.Core.21.1.4\lib\net452\DevExpress.Sparkline.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.TreeMap.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.TreeMap.Core.21.1.4\lib\net452\DevExpress.TreeMap.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Utils.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Utils.21.1.4\lib\net452\DevExpress.Utils.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Utils.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Utils.UI.21.1.4\lib\net452\DevExpress.Utils.v21.1.UI.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Xpo.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Xpo.21.1.4\lib\net452\DevExpress.Xpo.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraBars.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Navigation.21.1.4\lib\net452\DevExpress.XtraBars.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraCharts.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Charts.21.1.4\lib\net452\DevExpress.XtraCharts.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraCharts.v21.1.Extensions, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Charts.21.1.4\lib\net452\DevExpress.XtraCharts.v21.1.Extensions.dll</HintPath>
@@ -153,57 +177,74 @@
     </Reference>
     <Reference Include="DevExpress.XtraDiagram.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Diagram.21.1.4\lib\net452\DevExpress.XtraDiagram.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraEditors.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Navigation.21.1.4\lib\net452\DevExpress.XtraEditors.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraGauges.v21.1.Core, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Gauges.Core.21.1.4\lib\net452\DevExpress.XtraGauges.v21.1.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraGauges.v21.1.Presets, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Gauges.21.1.4\lib\net452\DevExpress.XtraGauges.v21.1.Presets.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraGauges.v21.1.Win, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Gauges.21.1.4\lib\net452\DevExpress.XtraGauges.v21.1.Win.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Grid.21.1.4\lib\net452\DevExpress.XtraGrid.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraLayout.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Navigation.21.1.4\lib\net452\DevExpress.XtraLayout.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraMap.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Map.21.1.4\lib\net452\DevExpress.XtraMap.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraNavBar.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.21.1.4\lib\net452\DevExpress.XtraNavBar.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraPivotGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.PivotGrid.21.1.4\lib\net452\DevExpress.XtraPivotGrid.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraPrinting.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.Printing.21.1.4\lib\net452\DevExpress.XtraPrinting.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraReports.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Reporting.Core.21.1.4\lib\net452\DevExpress.XtraReports.v21.1.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.XtraRichEdit.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.RichEdit.21.1.4\lib\net452\DevExpress.XtraRichEdit.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraTreeList.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.TreeList.21.1.4\lib\net452\DevExpress.XtraTreeList.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraTreeMap.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.TreeMap.21.1.4\lib\net452\DevExpress.XtraTreeMap.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraTreeMap.v21.1.UI, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.TreeMap.21.1.4\lib\net452\DevExpress.XtraTreeMap.v21.1.UI.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraVerticalGrid.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.VerticalGrid.21.1.4\lib\net452\DevExpress.XtraVerticalGrid.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.XtraWizard.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <HintPath>..\packages\DevExpress.Win.21.1.4\lib\net452\DevExpress.XtraWizard.v21.1.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
@@ -220,7 +261,7 @@
   <ItemGroup>
     <Compile Include="DatabaseUpdate\Updater.cs" />
     <Compile Include="DataSourceWizard\AWSDashboardWizardParameters.cs" />
-    <Compile Include="DataSourceWizard\SenDevDataSourceType.cs" />
+    <Compile Include="DataSourceWizard\AWSDataSourceType.cs" />
     <Compile Include="DataSourceWizard\DashboardDataSourceWizardViewBase.cs">
       <SubType>UserControl</SubType>
     </Compile>

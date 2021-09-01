@@ -27,7 +27,7 @@ namespace Dashboard.Win.Module.XAFDataSource
 
 				listbox.Items.Add(new CheckedListBoxItem
 				{
-					Value = Dashboard.Win.Module.DataSourceWizard.SenDevDataSourceType.Data,
+					Value = Dashboard.Win.Module.DataSourceWizard.AWSDataSourceType.Data,
 					Description = "AWS S3 Excel data source",  //CaptionHelper.GetLocalizedText("Captions", "XafObjectDataSource"),
 					Tag = "Add the AWS S3 link" //CaptionHelper.GetLocalizedText("Captions", "ObjectDataSourceWithXafPersistentTypes")
 				});
