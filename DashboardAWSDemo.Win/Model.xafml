@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Logo="ExpressAppLogo">
+  <BOModel>
+    <Class Name="Dashboard.Win.Module.DataSourceWizard.AWSDashboardWizardParameters">
+      <OwnMembers>
+        <Member Name="AWS" PropertyEditorType="DashboardAWSDemo.Module.Win.Editors.URLPropertyEditor" />
+      </OwnMembers>
+    </Class>
+    <Class Name="DashboardAWSDemo.Module.BusinessObjects.Files">
+      <OwnMembers>
+        <Member Name="Bucket" PropertyEditorType="DashboardAWSDemo.Module.Win.Editors.BucketPropertyEditor" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <NavigationItems NavigationStyle="Accordion" ShowImages="False" DefaultChildItemsDisplayStyle="List" />
+  <Options UIType="TabbedMDI" FormStyle="Ribbon" ShowTabImage="False">
+    <LayoutManagerOptions EnableLayoutGroupImages="False" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="21.1.3.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="21.1.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="AWSDashboardWizardParameters_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="5.7663125948406675">
+            <LayoutGroup Id="AWSDashboardWizardParameters" RelativeSize="100">
+              <LayoutItem Id="WorksheetIndex" RelativeSize="100" />
+            </LayoutGroup>
+            <LayoutGroup Id="XafWizardParameters" Caption="Data Type" RelativeSize="88.449848024316111" Removed="True">
+              <LayoutItem Id="DataType" Removed="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="SizeableEditors" RelativeSize="94.23368740515933">
+            <LayoutItem Id="AWS" RelativeSize="100" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
